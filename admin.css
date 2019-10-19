@@ -1,0 +1,27 @@
+h1{
+    color: rgb(27, 27, 105);
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+label{
+     text-align: right;
+}
+
+.btn-container{
+    text-align: center;
+}
+
+.hide{
+    display: none;
+}
+#alert{
+    background-color: green;
+    text-align: center;
+    height: 40px;
+    color: honeydew;
+    margin-right: 30px;
+    margin-right: 30px;
+    border-radius: 6px;
+}
